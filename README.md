@@ -13,9 +13,9 @@ Skils: `design` `art` `computer builds`
 
 # 🍋 Fun Facts
 - I love this color `#ffc544`
-- 
+
 - Huge fan of court volleyball 🏐
-- 
+
 - Love swimming 🏊
 
 # 📮 Contact
