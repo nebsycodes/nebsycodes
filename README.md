@@ -2,7 +2,7 @@
 
 I'm an upcoming developer based in Melbourne, Australia
 
-- Check out my [portfolio](docs/CONTRIBUTING.md)
+- Check out my [portfolio](https://github.com/nebsycodes/My-Portfolio)
 
 ##📦 Toolbox
 Frontend Development: `React` `HTML/CSS` `JavaScript`
