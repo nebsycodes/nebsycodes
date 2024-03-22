@@ -9,7 +9,7 @@ Frontend Development (in progress): `React` `HTML/CSS` `JavaScript`
 
 Other known Languages: `Python`
 
-Skils: `Design` `Art` `Computer builds` `Microsoft Programs` `Communications`
+Skills: `Design` `Art` `Computer builds` `Microsoft Programs` `Communications`
 
 # 🍋 Fun Facts
 - I love this color `#ffc544`
