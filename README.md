@@ -20,4 +20,4 @@ Extra Skills: `Design` `Art` `Computer builds` `Microsoft Programs`
 
 # 📮 Contact
 
-Business enquires: nebscodes@gmail.com
+Business inquires: nebscodes@gmail.com
