@@ -7,8 +7,6 @@ I'm an upcoming developer based in Melbourne, Australia
 # 📦 Toolbox
 Web Development (in progress): `HTML/CSS` `JavaScript` `React` `Git` `Django` `SQL` `API` `Python`
 
-Other known Languages: 
-
 Extra Skills: `Design` `Art` `Computer builds` `Microsoft Programs`
 
 # 🍋 Fun Facts
