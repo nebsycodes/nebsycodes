@@ -5,9 +5,9 @@ I'm an upcoming developer based in Melbourne, Australia
 - Check out my [portfolio](https://github.com/nebsycodes/My-Portfolio)
 
 # 📦 Toolbox
-Web Development (in progress): `HTML/CSS` `JavaScript` `React` `Git` `Django` `SQL` `API` `Python`
+Full Stack (in progress): `HTML/CSS` `JavaScript` `React` `Git` `NodeJS` `Python`
 
-Extra Skills: `Design` `Art` `Computer builds` `Microsoft Programs`
+Extra Skills: `Design/Art` `Computer builds` `Social media` `AI` `Communication`
 
 # 🍋 Fun Facts
 - I love yellow
