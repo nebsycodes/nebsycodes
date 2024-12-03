@@ -10,7 +10,7 @@ Full Stack (in progress): `HTML/CSS` `JavaScript` `React` `Git` `NodeJS` `Python
 Extra Skills: `Design/Art` `Computer builds` `Social media` `AI` `Communication`
 
 # 🍋 Fun Facts
-- I love yellow
+- yellow lover
 
 - Huge fan of court volleyball 🏐
 
