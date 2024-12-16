@@ -1,6 +1,7 @@
 ## Hi, I'm James 👋
 
-I'm an upcoming developer based in Melbourne, Australia
+I'm an upcoming developer based in Melbourne, Australia.
+My Current interests are in website development as well as cybersecurity.
 
 - Check out my [portfolio](https://nebsycodes.github.io/My-Portfolio/)
 
