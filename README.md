@@ -9,6 +9,8 @@ My Current interests are in website development as well as cybersecurity.
 # 📦 Toolbox
 Full Stack (in progress): `HTML/CSS` `JavaScript` `React` `Git` `NodeJS` `Python`
 
+Cyber Security (in progress): 
+
 Extra Skills/Experience: `Design/Art` `Computer builds` `Social media` `AI` `Communication` `Customer Service`
 
 # 🍋 Fun Facts
