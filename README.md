@@ -11,13 +11,17 @@ Full Stack (in progress): `HTML/CSS` `JavaScript` `React` `Git` `NodeJS` `Python
 
 Cyber Security (in progress): 
 
-Extra Skills/Experience: `Design/Art` `Computer builds` `Social media` `AI` `Communication` `Customer Service`
+Extra Skills/Experience: `Design/Art` `Computer builds` `Social media` `AI prompts` `Customer Service`
 
-# 🍋 Fun Facts
+# 🦉 About me!
 
 - Huge fan of court volleyball 🏐
-
+  
+- Rouge🥷🏻 and Wizard🧙‍♂️ in Dnd
+  
 - Love swimming 🏊
+
+
 
 # 📮 Contact
 
