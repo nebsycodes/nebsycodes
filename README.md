@@ -2,7 +2,7 @@
 
 I'm an upcoming developer based in Melbourne, Australia.
 
-My Current interests are in website development as well as cybersecurity.
+My Current interests are in website development as well as cyber security.
 
 - Check out my [portfolio](https://nebsycodes.github.io/My-Portfolio/)
 
