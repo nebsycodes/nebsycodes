@@ -15,6 +15,8 @@ Cyber Security (in progress):
 
 Extra Skills/Experience: `Design/Art` `Computer builds` `Social media` `AI prompts` `Customer Service`
 
+![nebsycodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nebsycodes&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+
 # 🦉 About me!
 
 - Huge fan of court volleyball 🏐
@@ -22,8 +24,6 @@ Extra Skills/Experience: `Design/Art` `Computer builds` `Social media` `AI promp
 - Rouge🥷🏻 and Wizard🧙‍♂️ in Dnd
   
 - Love swimming 🏊
-
-![nebsycodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nebsycodes&theme=monokai&hide_border=true)
 
 # 📮 Contact
 
