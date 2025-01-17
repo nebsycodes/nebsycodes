@@ -25,6 +25,8 @@ Extra Skills/Experience: `Design/Art` `Computer builds` `Social media` `AI promp
   
 - Love swimming 🏊
 
+![nebsycodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nebsycodes&theme=vue-dark&hide_border=true)
+
 # 📮 Contact
 
 Business inquires: nebscodes@gmail.com
