@@ -6,7 +6,7 @@ My current interests are website development and cyber security.
 
 - Check out my [portfolio](https://nebsycodes.github.io/My-Portfolio/)
 
-  ![nebsycodes's Stats](https://github-readme-stats.vercel.app/api?username=nebsycodes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![nebsycodes's Stats](https://github-readme-stats.vercel.app/api?username=nebsycodes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 # 📦 Toolbox
 Full Stack (in progress): `HTML/CSS` `JavaScript` `React` `Git` `NodeJS` `Python`
@@ -24,8 +24,6 @@ Extra Skills/Experience: `Design/Art` `Computer builds` `Social media` `AI promp
 - Rouge🥷🏻 and Wizard🧙‍♂️ in Dnd
   
 - Love swimming 🏊
-
-![nebsycodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nebsycodes&theme=vue-dark&hide_border=true)
 
 # 📮 Contact
 
