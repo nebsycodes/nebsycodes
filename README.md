@@ -9,7 +9,7 @@ My current interests are website development, game-design and cyber security.
 ![nebsycodes's Stats](https://github-readme-stats.vercel.app/api?username=nebsycodes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 # 📦 Toolbox
-Full Stack (in progress): `HTML/CSS` `JavaScript` `React` `Git` `NodeJS` `Python`
+Full Stack (in progress): `HTML/CSS` `JavaScript` `React` `Git` `NodeJS` `Python` 
 
 Cyber Security (in progress): 
 
