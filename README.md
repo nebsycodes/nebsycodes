@@ -3,6 +3,7 @@
 I'm an upcoming developer based in Melbourne, Australia.
 
 Certificate IV in Cyber-Security
+
 Certificate III in Information Technology
 
 My current interests are website development, game-design and cyber security.
