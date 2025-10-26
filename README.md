@@ -6,7 +6,7 @@ Certificate IV in Cyber-Security
 
 Certificate III in Information Technology
 
-My current interests are website development, game-design and cyber security.
+My current interests are websites, game-design and cyber security. Overall I enjoy creating aesthetics and clean UI.
 
 - Check out my [portfolio](https://nebsycodes.github.io/My-Portfolio/)
 
